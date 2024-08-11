@@ -1,10 +1,10 @@
-LinkedIn Clone
+**LinkedIn Clone**
 
-Overview
+**Overview**
 
 This LinkedIn clone is a professional networking platform that allows users to connect, share updates, and explore career opportunities. Designed to mimic the core functionalities of LinkedIn, this platform is built using modern web technologies, ensuring a smooth and responsive user experience.
 
-Key Features
+**Key Features**
 
 - Profile Creation and Management
   - Create detailed profiles with personal and professional information.
@@ -25,7 +25,7 @@ Key Features
   - Join or create groups based on specific interests or industries.
   - Participate in discussions and collaborate with other professionals.
 
-Technologies Used
+**Technologies Used**
 
 - Frontend: React.js for building a dynamic and responsive user interface.
 - Backend: Node.js and Express.js for managing server-side logic and APIs.
