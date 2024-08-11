@@ -1,4 +1,4 @@
-#LinkedIn Clone
+LinkedIn Clone
 
 Overview
 
